@@ -1,7 +1,7 @@
 return {
-  {
-    "echasnovski/mini.comment",
-    version = false,
-    opts = {},
-  },
+	{
+		"nvim-mini/mini.comment",
+		version = false,
+		opts = {},
+	},
 }
